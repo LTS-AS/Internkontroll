@@ -5,7 +5,7 @@ This document defines our routine for completing sales, with Odoo ERP/CRM open s
 
 ## General specifications.
 1. Sale is done over mail or phone. 
-- Be sure to get the invoice address and post address from the customer, and add the firm and contact person to the Odoo costumer list.
+- Be sure to get the invoice address and post address from the customer, and add the company and contact person to the Odoo costumer list.
 
 2. Create a new sale order, and add the customers products.
 - Get availability from supplier.
@@ -18,7 +18,7 @@ This document defines our routine for completing sales, with Odoo ERP/CRM open s
 - Check the delivery address, and send purchase order to the supplier.
 
 4. Confirmation that items are sent from supplier:
-- Send invoice and ensure customer the item is on its way, and provide the tracking data.
+- Send invoice and ensure customer the item is on its way, and provide the tracking data. Also attach the product data sheet.
 
 
 
