@@ -10,10 +10,10 @@ OTP | One-time passcode from a Yubikey
 
 # PDF review product
 ## Customers API-calls
-- order(PDF, customer_OTP, SHA2)
-- ack(order_ID)
-- ack(order_ID, timestamp_for_planned_delivery)
-- delivery(PDF, reviewer_OTP, SHA2)
+- order(spesification, product, customer_signature, SHA2)
+- ack(task_ID)
+- ack(task_ID, timestamp_for_planned_delivery)
+- delivery(spesification_report, product_report, reviewer_signature, SHA2)
 
 ## Reviewers API-calls
 - request(order_ID)
