@@ -8,22 +8,20 @@ Denne instruksen gjelder for bruk av følgende tavler:
 431-001 Hovedtavle
 433-001 Underfordeling 1
 
-Tavleoperatør kan være ledsager for personell som ikke har nødvendig opplæring. I slike tilfeller er det tavleoperatøren ansvarlig for sikkerheten til personellet.
 
-## For driftsansvarlig
-Eier/driver skal velge en driftsansvarlig.
-Driftsansvarlig er ansvarlig for at anlegget bygges, drives og vedlikeholdes etter kravene i FSE.
-Driftsansvarlig regnes som fagansvarlig i egen virksomhet. Driftsansvarlig må ha god kunnskap om det elektriske anlegget.
-Driftsansvarlig skal ha egen skriftlig instruks.
+
+Tavleoperatør kan være ledsager for personell som ikke har nødvendig opplæring. I slike tilfeller er det tavleoperatøren ansvarlig for sikkerheten til dette personellet.
 
 Den som sitter med den faglige kompetansen og har ansvar for elsikkerheten har myndighet til å overstyre driftsorganisasjonen hvis aktiviteter ikke er innenfor kravene i FSE.
 
-## Kvalifikasjonskrav for tavleoperatør
+## Krav til tavleoperatør
+Tavleoperatøren skal ha nødvendig opplæring for elsikkerhet og førstehjelp. Gyldig FSE-kurs dekker dette kravet.
 
-Driftsansvarlig person er ansvarlig for at det foreligger 
+Tavleoperatøren skal være godt kjent på anlegget og ha opplæring i trygg bruk av bedriftens fordelingstavler.
 
-Kontroll - test- kontroll
+Tavleoperatør være journalført i bedriftens internkontrollsystem. Driftsansvarlig eller stedfortreder for driftsansvarlig kan gjøre dette.
 
+Nøkkler blir utdelt når en ny tavleoperatør blir registrert. Nøkklene skal ikke lånes ut. Nøkklene skal leveres tilbake når driftsansvarlig eller stedfortreder krever dette.
 
 
 ## Referanser
