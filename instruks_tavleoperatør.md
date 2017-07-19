@@ -4,11 +4,9 @@
 Hovedmålet med denne instruksen er å unngå personskader, materielle skader og driftsstans.
 
 ## Omfang
-Denne instruksen gjelder for bruk av følgende tavler:
-- 431-001 Hovedtavle
-- 433-001 Underfordeling 1
-
-
+Denne instruksen gjelder for bedriftens tavler som er bygget for sakkyndig betjening. Dette gjelder følgende tavler:
+- 431-001 Første tavle
+- 432-001 Andre tavle
 
 Tavleoperatør kan være ledsager for personell som ikke har nødvendig opplæring. I slike tilfeller er det tavleoperatøren ansvarlig for sikkerheten til dette personellet.
 
