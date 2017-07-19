@@ -5,8 +5,8 @@ Hovedmålet med denne instruksen er å unngå personskader, materielle skader og
 
 ## Omfang
 Denne instruksen gjelder for bruk av følgende tavler:
-431-001 Hovedtavle
-433-001 Underfordeling 1
+- 431-001 Hovedtavle
+- 433-001 Underfordeling 1
 
 
 
