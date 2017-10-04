@@ -17,6 +17,6 @@
 ## Registrere regninger (ved mottak)
 - Klikk "Opprett" i leverandørfakturaer. (hvis ikke faktura eksisterer)
 - Velg kunde, legg til linje(r), velg fakturadato, oppdater MVA, klikk "lagre"
-- Legg ved faktura, slett faktura
+- Legg ved faktura, slett faktura lokalt
 
 ## Betale regninger ()
