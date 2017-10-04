@@ -16,7 +16,10 @@
 
 ## Registrere regninger (ved mottak)
 - Klikk "Opprett" i leverandørfakturaer. (hvis ikke faktura eksisterer)
-- Velg kunde, legg til linje(r), velg fakturadato, oppdater MVA, klikk "lagre"
-- Legg ved faktura, slett faktura
+- Velg kunde, legg inn fakturanummer som fri referanse, legg til fakturalinje(r), velg fakturadato, oppdater MVA, sjekkk totalbeløp, klikk "Valider"
+- Legg ved faktura, slett faktura lokalt
 
 ## Betale regninger ()
+- Gå til leverandørfaktura, finn fakturaer med status "Åpne"
+- Betal åpne fakturaer i nettbank, last ned kvitteringer
+- klikk "Betalt", legg inn kvittering
