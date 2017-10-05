@@ -22,4 +22,18 @@
 ## Betale regninger ()
 - Gå til leverandørfaktura, finn fakturaer med status "Åpne"
 - Betal åpne fakturaer i nettbank, last ned kvitteringer
-- klikk "Betalt", legg inn kvittering
+- klikk "Betalt", betalingsmetode, dato, registrer betaling, legg inn kvittering
+
+## Statusovervåking (nattjobb)
+- Inkommende fakturaer skal vedlegges (EXJ)
+- Inkommende kreditnotaer skal vedkegges (ECNJ)
+- Diversejournaler skal ha vedlegg (DIV)
+- Kontantjournaler skal ha vedlegg (BNK1)
+- Bankjournaler skal ha vedlegg (BNK2)
+- Ingående fakturaer nær forfall
+- Utgående fakturaer som har forfalt
+
+## Ønskeliste statusovervåking
+- Innlesing av lønnsrapport
+- Oppdatering av referanser på lts.no
+- Levering av a-melding
