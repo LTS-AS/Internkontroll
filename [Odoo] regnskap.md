@@ -23,3 +23,8 @@
 - Gå til leverandørfaktura, finn fakturaer med status "Åpne"
 - Betal åpne fakturaer i nettbank, last ned kvitteringer
 - klikk "Betalt", betalingsmetode, dato, registrer betaling, legg inn kvittering
+
+## Verifikasjon av journaler (nattjobb)
+- Finn alle Account Move ID
+- Finnalle relaterte vedlegg
+- Last ned alle relaterte vedleg, sett navnet <account_move_name(uten /)><filnavn>
