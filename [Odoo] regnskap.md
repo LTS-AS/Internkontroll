@@ -24,7 +24,15 @@
 - Betal åpne fakturaer i nettbank, last ned kvitteringer
 - klikk "Betalt", betalingsmetode, dato, registrer betaling, legg inn kvittering
 
-## Verifikasjon av journaler (nattjobb)
-- Finn alle Account Move ID
-- Finnalle relaterte vedlegg
-- Last ned alle relaterte vedleg, sett navnet <account_move_name(uten /)><filnavn>
+## Statusovervåking (nattjobb)
+- Inkommende fakturaer skal vedlegges (EXJ)
+- Inkommende kreditnotaer skal vedkegges (ECNJ)
+- Diversejournaler skal ha vedlegg (DIV)
+- Kontantjournaler skal ha vedlegg (BNK1)
+- Bankjournaler skal ha vedlegg (BNK2)
+
+## Ønskeliste statusovervåking
+- Innlesing av lønnsrapport
+- Levering av a-melding
+- Ingående fakturaer nær forfall
+- Utgående fakturaer forfalt
