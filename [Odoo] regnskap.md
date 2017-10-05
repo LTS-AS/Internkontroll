@@ -22,4 +22,4 @@
 ## Betale regninger ()
 - Gå til leverandørfaktura, finn fakturaer med status "Åpne"
 - Betal åpne fakturaer i nettbank, last ned kvitteringer
-- klikk "Betalt", legg inn kvittering
+- klikk "Betalt", betalingsmetode, dato, registrer betaling, legg inn kvittering
