@@ -1,9 +1,5 @@
 # Rutiner for økonomistyring
 
-## Registrere betalinger
-- Fin relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
-- Gå til journalregistreringer, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
-
 ## Plassering av journalvedlegg
 ### Journalregistreringer
 - 5 DIV Diverse journal
@@ -27,6 +23,10 @@
 - Gå til leverandørfaktura, finn fakturaer med status "Åpne"
 - Betal åpne fakturaer i nettbank, last ned kvitteringer
 - klikk "Betalt", betalingsmetode, dato, registrer betaling, legg inn kvittering
+
+## Registrere betalinger
+- Fin relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
+- Gå til journalregistreringer, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
 
 ## Statusovervåking (nattjobb)
 - Inkommende fakturaer skal vedlegges (EXJ)
