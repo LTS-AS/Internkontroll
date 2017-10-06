@@ -14,6 +14,12 @@
 
 ### Output
 
+## Plassering av journalvedlegg
+1. SAJ
+2. EXJ
+3. 
+
+
 ## Registrere regninger (ved mottak)
 - Klikk "Opprett" i leverandørfakturaer. (hvis ikke faktura eksisterer)
 - Velg kunde, legg inn fakturanummer som fri referanse, legg til fakturalinje(r), velg fakturadato, oppdater MVA, sjekkk totalbeløp, klikk "Valider"
