@@ -16,7 +16,7 @@
 
 ## Plassering av journalvedlegg
 ### Journalregistreringer
-?. OPEJ Opening Entries Journal
+6. OPEJ Opening Entries Journal
 7. BNK1 Kontant
 8. BNK2 Bank
 ### Leverandører
@@ -25,7 +25,7 @@
 ### Trenger ikke vedlegg
 1. SAJ Salgsjournal
 4. ECNJ Leverandør kreditnota-journal
-?. STJ Varelager-journal
+9. STJ Varelager-journal
 
 ## Registrere regninger (ved mottak)
 - Klikk "Opprett" i leverandørfakturaer. (hvis ikke faktura eksisterer)
