@@ -15,10 +15,17 @@
 ### Output
 
 ## Plassering av journalvedlegg
-1. SAJ
-2. EXJ
-3. 
-
+### Journalregistreringer
+?. OPEJ Opening Entries Journal
+7. BNK1 Kontant
+8. BNK2 Bank
+### Leverandører
+2. EXJ Innkjøpsjournal
+5. DIV Diverse journal
+### Trenger ikke vedlegg
+1. SAJ Salgsjournal
+4. ECNJ Leverandør kreditnota-journal
+?. STJ Varelager-journal
 
 ## Registrere regninger (ved mottak)
 - Klikk "Opprett" i leverandørfakturaer. (hvis ikke faktura eksisterer)
