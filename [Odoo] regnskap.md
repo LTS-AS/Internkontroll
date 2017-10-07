@@ -28,6 +28,12 @@
 - Fin relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
 - Gå til journalregistreringer, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
 
+## Lønn (siste dag i måned)
+- Last ned eksempel fra DIV/2017/001, kopier DIV/2017/001
+- Husk å oppdatere partner på alle linjer
+- Juster filnavn, juster innhold, juster ny journal
+- Kjør utbetaling
+
 ## Statusovervåking (nattjobb)
 - Inkommende fakturaer skal vedlegges (EXJ)
 - Inkommende kreditnotaer skal vedkegges (ECNJ)
@@ -41,12 +47,6 @@
 - Innlesing av lønnsrapport
 - Oppdatering av referanser på lts.no
 - Levering av a-melding
-## Lønn (siste dag i måned)
-### Input
-
-### Logikk
-
-### Output
 
 ## MVA (Slutten av måned {1,3,5,7,9,11})
 ### Input
