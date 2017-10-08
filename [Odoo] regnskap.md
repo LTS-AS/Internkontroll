@@ -28,6 +28,11 @@
 - Fin relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
 - Gå til journalregistreringer, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
 
+## Registrere kvitteringer (DIV)
+- Gå til journalregistreringer, finn en eksisterende journal med samme skattebase, ta en kopi
+- Juster periode, referanse, dato, partner, konto, beløp, skattebeløp
+- Postèr, legg til vedlegg, slett vedlegg fra PC
+
 ## Lønn (siste dag i måned)
 - Last ned eksempel fra DIV/2017/001, kopier DIV/2017/001
 - Husk å oppdatere partner på alle linjer
