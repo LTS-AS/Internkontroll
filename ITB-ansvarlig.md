@@ -2,8 +2,7 @@
 Denne rutinen utarbeides for ITB-ansvarlig hos LTS AS.
 
 ## Forkortelser
-ITB = Integrerte tekniske bygningsinstallasjoner
-ITB = Integrated technical building installations
+ITB = Integrerte tekniske bygningsinstallasjoner = Integrated technical building installations
 
 ## 4 Hovedoppgaver
 Koordinering og kvalitetssikring av 
