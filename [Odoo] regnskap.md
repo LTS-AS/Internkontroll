@@ -22,11 +22,12 @@
 ## Betale regninger ()
 - Gå til leverandørfaktura, finn fakturaer med status "Åpne"
 - Betal åpne fakturaer i nettbank, last ned kvitteringer
-- klikk "Betalt", betalingsmetode, dato, registrer betaling, legg inn kvittering
+- Klikk "Betalt", betalingsmetode, dato, registrer betaling
+- Gå til journalregistreringer, postèr, legg inn vedlegg, slett vedlegg fra pc
 
-## Registrere betalinger
+## Registrere innbetalinger
 - Fin relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
-- Gå til journalregistreringer, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
+- Gå til journalregistreringer, postèr, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
 
 ## Registrere kvitteringer (DIV)
 - Gå til journalregistreringer, finn en eksisterende journal med samme skattebase, ta en kopi
