@@ -40,15 +40,6 @@
 - Juster filnavn, juster innhold, juster ny journal
 - Kjør utbetaling
 
-## Avstemminger (månedlig)
-- Skriv ut kontoutskrift
-
-- Reporting, Legal reporting, Accounting reports, General Ledger
-- Rapportering, Avgiftsrapport, Regnskapsrapporter, Hovedbok
-
-- Reporting, Legal reporting, Accounting reports, trial balance??
-- Rapportering, Avgiftsrapport, Regnskapsrapporter, Balanse
-
 ## Statusovervåking (nattjobb)
 - Inkommende fakturaer skal vedlegges (EXJ)
 - Inkommende kreditnotaer skal vedkegges (ECNJ)
@@ -64,4 +55,12 @@
 - Levering av a-melding
 
 ## MVA (Slutten av måned {1,3,5,7,9,11})
-- Reporting, Generic reporting, Taxes, Taxes Report
+- Skriv ut kontoutskrifter
+- Rapportering, Avgiftsrapport, Regnskapsrapporter, Hovedbok
+- Stem av rapport og kontoutskrift
+
+- Rapportering, Generiske rapporter, Avgifter, Avgiftsrapport
+- Lag en ny DIV-journal med referansen MVA<nummer>
+
+## For årsrapport
+- Rapportering, Avgiftsrapport, Regnskapsrapporter, Balanse
