@@ -40,6 +40,10 @@
 - Juster filnavn, juster innhold, juster ny journal
 - Kjør utbetaling
 
+## Bankavstemming (månedlig)
+- Skriv ut kontoutskrift
+- Skriv ut reporting -> Accounting reports -> General Ledger for gjeldende måned
+
 ## Statusovervåking (nattjobb)
 - Inkommende fakturaer skal vedlegges (EXJ)
 - Inkommende kreditnotaer skal vedkegges (ECNJ)
