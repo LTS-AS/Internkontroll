@@ -55,8 +55,4 @@
 - Levering av a-melding
 
 ## MVA (Slutten av måned {1,3,5,7,9,11})
-### Input
-
-### Logikk
-
-### Output
+- Reporting, Generic reporting, Taxes, Taxes Report
