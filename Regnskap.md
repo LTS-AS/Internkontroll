@@ -40,9 +40,14 @@
 - Juster filnavn, juster innhold, juster ny journal
 - Kjør utbetaling
 
-## Bankavstemming (månedlig)
+## Avstemminger (månedlig)
 - Skriv ut kontoutskrift
-- Skriv ut reporting -> Accounting reports -> General Ledger for gjeldende måned
+
+- Reporting, Legal reporting, Accounting reports, General Ledger
+- Rapportering, Avgiftsrapport, Regnskapsrapporter, Hovedbok
+
+- Reporting, Legal reporting, Accounting reports, trial balance??
+- Rapportering, Avgiftsrapport, Regnskapsrapporter, Balanse
 
 ## Statusovervåking (nattjobb)
 - Inkommende fakturaer skal vedlegges (EXJ)
