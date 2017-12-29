@@ -35,10 +35,11 @@
 - Lagre, postèr, legg til vedlegg, slett vedlegg fra PC
 
 ## Lønn (siste dag i måned)
-- Last ned eksempel fra DIV/2017/001, kopier DIV/2017/001
-- Husk å oppdatere partner på alle linjer
-- Juster filnavn, juster innhold, juster ny journal
-- Kjør utbetaling
+- Fyll ut excel-mal for lønnsrapport. En fil per ansatt. Legg ferdige filer i L:\accounting\Lønn.
+- Kopier en eksisterende lønnsjournal, DIV/xxxx/xxxx
+- Skriv filnavn i referansefeltet, oppdater periode, oppdater dato, sjekk partner på alle linjer
+- kjør write_payment.py for å lese inn journallinjer
+- Kjør utbetalinger
 
 ## Statusovervåking (nattjobb)
 - Inkommende fakturaer skal vedlegges (EXJ)
