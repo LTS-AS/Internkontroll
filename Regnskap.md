@@ -26,7 +26,7 @@
 - Gå til journalregistreringer, postèr, legg inn vedlegg, slett vedlegg fra pc
 
 ## Registrere innbetalinger
-- Fin relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
+- Finn relevant faktura, velg registrer betaling, Sjekk beløp, velg betalingsmetode, velg dato, registrer betaling, gjenta for alle
 - Gå til journalregistreringer, postèr, legg inn vedlegg, slett vedlegg fra pc, gjenta for alle
 
 ## Registrere kvitteringer (DIV)
