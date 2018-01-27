@@ -64,6 +64,7 @@
 - Lag en ny DIV-journal med referansen MVA<nummer>
 
 ## For årsrapport
+- Accounting, Legal Reports, Accounting Reports, Trial balance
 - Rapportering, Avgiftsrapport, Regnskapsrapporter, Balanse (Accounting, Legal Reports, Accounting Reports, Balance sheet)
 
 ## Forklaring av ord som regnskapsfører bruker
