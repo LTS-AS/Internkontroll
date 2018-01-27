@@ -65,3 +65,10 @@
 
 ## For årsrapport
 - Rapportering, Avgiftsrapport, Regnskapsrapporter, Balanse
+
+## Forklaring av ord som regnskapsfører bruker
+| Ord | Beskrivelse |
+| --- | --- |
+|Saldobalanse|balanse+resultat|
+|Balanse||
+|A-melding oppsummering|Før het dette "lønns og trekkoppgave", alle ansatte skal ha denne ved årets slutt|
