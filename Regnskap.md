@@ -34,8 +34,10 @@
 - Juster periode, referanse, dato, partner, konto, beløp, skattebeløp
 - Lagre, postèr, legg til vedlegg, slett vedlegg fra PC
 
-## Lønn (siste dag i måned)
-- Fyll ut excel-mal for lønnsrapport. En fil per ansatt. Legg ferdige filer i L:\accounting\Lønn.
+## Lønn (før 5. hver måned)
+- Fyll ut excel-mal for lønnsrapport. En fil per ansatt. 
+- Lever A-melding til altinn, verifiser excel-rapport.
+- Legg ferdige filer i L:\accounting\Lønn.
 - Kopier en eksisterende lønnsjournal, DIV/xxxx/xxxx
 - Skriv filnavn i referansefeltet, oppdater periode, oppdater dato, sjekk partner på alle linjer
 - kjør write_payment.py for å lese inn journallinjer
