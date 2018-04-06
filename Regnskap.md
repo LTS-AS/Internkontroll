@@ -38,7 +38,8 @@
 - Fyll ut excel-mal for lønnsrapport. En fil per ansatt. 
 - Lever A-melding til altinn, verifiser excel-rapport
 - Kjør utbetalinger til ansatte og skattetrekkskonto
-##
+- Send excel-filer til Håvard
+###
 - Legg ferdige filer i L:\accounting\Lønn.
 - Kopier en eksisterende lønnsjournal, DIV/xxxx/xxxx
 - Skriv filnavn i referansefeltet, oppdater periode, oppdater dato, sjekk partner på alle linjer
