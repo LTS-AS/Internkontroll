@@ -60,13 +60,14 @@
 - Oppdatering av referanser på lts.no
 - Levering av a-melding
 
-## MVA (Slutten av måned {1,3,5,7,9,11})
-- Skriv ut kontoutskrifter
-- Rapportering, Avgiftsrapport, Regnskapsrapporter, Hovedbok
-- Stem av rapport og kontoutskrift
-
-- Rapportering, Generiske rapporter, Avgifter, Avgiftsrapport
-- Lag en ny DIV-journal med referansen MVA<nummer>
+## MVA+avstemming bank (Slutten av måned {1,3,5,7,9,11})
+- [ ] Hent ut kontoutskrifter, 1 PDF per måned.
+- [ ] Bruk adobe reader, marker lije for linje ved avstemming
+- [ ] Lag en DIV-journal for renter og gebyrer. Legg ved månedens kontoutskrifter.
+- [ ] Rapportering, Avgiftsrapport, Regnskapsrapporter, Hovedbok
+###
+- [ ] Rapportering, Generiske rapporter, Avgifter, Avgiftsrapport
+- [ ] Lag en ny DIV-journal med referansen MVA<nummer>
 
 ## For årsrapport
 - Accounting, Legal Reports, Accounting Reports, Trial balance
